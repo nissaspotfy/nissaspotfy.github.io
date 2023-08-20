@@ -1,0 +1,18 @@
+body{
+    min-height: 300px;
+}
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #c9e5e6;
+}
+#projects{
+    background-color: #c9e5e6;
+}
+.carousel slide{
+    width: 5rem;
+    height: 5rem;
+}
+section{
+    padding-top: 5rem;
+}
