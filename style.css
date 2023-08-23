@@ -6,13 +6,14 @@ body{
     padding-top: 6rem;
     background-color: #c9e5e6;
 }
-#projects{
-    background-color: #c9e5e6;
-}
-.carousel slide{
-    width: 5rem;
-    height: 5rem;
+
+#experience carousel item{
+    width: 20%;
+    height: 20%;
 }
 section{
     padding-top: 5rem;
+}
+#experience h2{
+    margin-bottom: 3rem;
 }
